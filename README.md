@@ -1,5 +1,5 @@
 # Battleship-OOP-Final-Project
-This project was created as a part of Object-Oriented Software Design class at College of Staten Island (CUNY)
+This project was created as a part of Object-Oriented Software Design class at College of Staten Island (CUNY) in May 2020.
 ## Authors
 - <a href="https://github.com/konstantinNovichenko">Konstantin Novichenko</a>
 - <a href="https://github.com/francesco-pecora">Francesco Pecora</a>
